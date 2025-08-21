@@ -1,1 +1,1 @@
-[![Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YudhaStacy&theme=apprentice&show_icons=true&hide_border=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YudhaStacy&theme=apprentice&show_icons=true&border_color=3d444d&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
